@@ -1,0 +1,8 @@
+.bottomText{
+    display: flex;
+    align-items: end   ;
+    font-size: small;
+}
+h1,h2,h3,h4,h5,h6,a{
+    opacity: 0.8;
+}

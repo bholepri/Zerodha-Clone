@@ -1,0 +1,24 @@
+.image{
+    height:8vh;
+    width: 30vh;
+    margin-bottom: 15px;
+}
+.universe-box{
+    
+    height: 40vh;
+    width: 50vh;
+    padding: 50px;
+    text-align: center;
+}
+.universe-outer-box{
+    
+    display: flex;
+    flex-wrap: wrap;
+    
+    padding: 50px;
+    margin-left: 12%;
+}
+p{
+    opacity: 0.8;
+    font-size: 13px;
+}
